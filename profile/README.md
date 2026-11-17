@@ -9,20 +9,20 @@
 Developed and maintained by CEA, JUMO simulates the logistic activity of a container terminal with associated energy consumption. It predicts the movements (load / unload / storage) of the devices and products to / from the port terminal in order to estimate the real time consumption as well as the use of the infrastructures (cranes, reefer plugs, battery swaps, recharge stations etc…).  
 
 → Available at: The code of the simulator is not publicly available but it can be used (online and offline) through licensing (with CEA) for further use cases and application regarding terminal activity simulation, including energy consumption and optimization, beyond MAGPIE project. 
-→ Contact person: For further information regarding Port Terminal Simulator license, please feel free to contact CEAtech and CEA-Liten
-→ Email | Website: ceatech-hautsdefrance@cea.fr; https://liten.cea.fr/cea-tech/liten/english/Pages/Contact.aspx
+→ Contact person: For further information regarding Port Terminal Simulator license, please feel free to contact CEAtech and CEA-Liten  
+→ Email | Website: ceatech-hautsdefrance@cea.fr; https://liten.cea.fr/cea-tech/liten/english/Pages/Contact.aspx  
 
 ### 2- ENERGY MATCHING TOOL (EMT)  
 Developed and maintained by EDP NEW, the EMT uses operational data and an optimisation model to balance hourly energy supply and demand over a 24–48-hour horizon by leveraging local flexibility, energy storage, and renewable generation.  
 
-→ Available at: https://github.com/MAGPIE-WP4-Digital-Tools/Energy_Matching_Tool
-→ Contact person: André Lisboa; João Megre; Glória Gonçalves    
+→ Available at: https://github.com/MAGPIE-WP4-Digital-Tools/Energy_Matching_Tool  
+→ Contact person: André Lisboa; João Megre; Glória Gonçalves  
 → Email | Website: andre.lisboa@edp.pt; joao.megre@edp.pt; gloria.goncalves@edp.pt  
 
 ### 3- SMART GREEN LOGISTICS TOOL  
 Developed and maintained by Rotterdam School of Management, the Smart Green Logistics Tool optimises the hinterland transportation planning of the arriving containers by minimising cost, time and emissions. The tool provides an interface for the port authorities to balance cost, time and emissions while testing the impact of certain policies on the hinterland transportation network.  
 
-→ Available at: https://github.com/MAGPIE-WP4-Digital-Tools/Smart_and_Green_Logistics
+→ Available at: https://github.com/MAGPIE-WP4-Digital-Tools/Smart_and_Green_Logistics  
 → Contact person: Pieter van den Berg, Orkun Tunay  
 → Email | Website: vandenberg@rsm.nl; tunay@rsm.nl  
 
