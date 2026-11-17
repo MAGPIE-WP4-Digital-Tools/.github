@@ -3,7 +3,7 @@
 
 ***Available software developed within the MAGPIE (WP4) EU project. This organization provides access to the software outputs delivered under Task T4.5, categorized into decision-support tools and supporting models.***  
 
-![framework-diagram](images/repository_tools.png)
+![framework-diagram](../images/repository_tools.png)
 
 ## List of Software  
 
