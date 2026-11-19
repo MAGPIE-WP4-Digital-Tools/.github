@@ -7,7 +7,7 @@
 
 ## List of Software  
 
-### <u>Decision-support tools (DS)</u> 
+### ==Decision-support tools (DS)==
 
 ### DS1- GREENHOUSE GAS TOOL  
 Developed and maintained by TNO, this tool implements modelling and prediction capabilities to estimate GHG emissions and the impact of reduction measures both for the level of a port and on different transport corridors to and from the port.  
@@ -57,11 +57,11 @@ Developed and maintained by INESC TEC, OpSEASim is an open-source Python-based s
 
 ### SM2- Buildings Flexibility 
 
-Developed and maintained by CEA, the building model is suitable for determining supply energy needs as a function of the requested setpoint temperature in a building.
+Developed and maintained by CEA, the building model is suitable for determining supply energy needs as a function of the requested setpoint temperature in a building.  
 
-→ Available at: https://github.com/MAGPIE-WP4-Digital-Tools/Building_Flexibility_Model
-→ Contact person: Yves-Marie Bourien
-→ Email: yves-marie.bourien@cea.fr  
+→ Available at: https://github.com/MAGPIE-WP4-Digital-Tools/Building_Flexibility_Model  
+→ Contact person: Yves-Marie Bourien  
+→ Email: yves-marie.bourien@cea.fr   
 
 ### SM3- TERMINAL SIMULATOR  
 Developed and maintained by CEA, the tool is a digital twin and discrete-event simulator accessible via a web interface. It enables users to load input data, run simulations, and visualise the results through various interfaces, such as dashboards, maps, and timelines.  
