@@ -63,7 +63,15 @@ Developed and maintained by CEA, the building model is suitable for determining 
 → Contact person: Yves-Marie Bourien  
 → Email: yves-marie.bourien@cea.fr   
 
-### SM3- TERMINAL SIMULATOR  
+### SM3- Terminal Assets Flexibility 
+
+Developed and maintained by INESC TEC, the primary purpose of the Load Flexibility Tool is to compute load flexibility parameters based on the specific characteristics of various port assets, namely onshore power supplies (OPS), electric vehicles (e-vehicles), yard cranes, and reefer containers. In its current version, the computational framework primarily acts as an interface between the Terminal Simulator (SM4) and the Energy Matching Tool (DS2). It uses input data from the Terminal Simulator and processes and configures this data to generate the inputs required by the Energy Matching Tool. However, the underlying mathematical models are more general in scope, allowing the computational framework to be readily reused and adapted to different operational contexts. This flexibility is further supported by the open availability of the source code.  
+
+→ Available at: https://github.com/MAGPIE-WP4-Digital-Tools/Terminal_Assets_Flexibility  
+→ Contact person: Zenaida Mourão   
+→ Email: zenaida.mourao@inesctec.pt  
+
+### SM4- Terminal Simulator 
 Developed and maintained by CEA, the tool is a digital twin and discrete-event simulator accessible via a web interface. It enables users to load input data, run simulations, and visualise the results through various interfaces, such as dashboards, maps, and timelines.  
 
 → Available at: The code of the simulator is not publicly available but it can be used (online and offline) through licensing (with CEA) for further use cases and application regarding terminal activity simulation, including energy consumption and optimisation, beyond MAGPIE project  
